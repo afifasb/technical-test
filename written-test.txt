@@ -1,0 +1,31 @@
+1. What is a JavaScript Framework and explain about Vue.js as one of the JavaScript Framework!
+
+Answer: JavaScript Framework is one of the well-known framework to develop a website. 
+It helps developers by having a ready-to-use snippet of codes so the developers don't have to write the code from the scratch.
+While Vue.js is one of the example of JavaScript Framework that is used to developing single-page applications. 
+It has a reactive, compiler-optimized rendering system and scales between a library and a full-featured framework.
+
+2. What is the use of ellipsis?
+Answer: In website developing, ellipsis has been used in many features, such as text truncation 
+where we could truncate the text and separate it just like what we did in one of the Technical Test Assignments in the product card section.
+In CSS, it shows when text is too long for its space.
+
+3. Explain animation properties below:
+a. @keyframe: It's like a script for the animation, telling it what to do at different points.
+b. animation-name: It tells the animation which set of instructions to follow.
+c. animation-duration: It sets the time for the entire animation to happen.
+d. animation-iteration: It decides how many times the animation should play.
+e. animation-direction: It decides the path of the animation, whether it goes forward, backward, or back and forth.
+
+4. Please explain how lazy load works in JavaScript!
+Answer: Lazy load in JavaScript works by loading only the needed part
+so it could make the website run faster and improve the website's performance.
+By implementing lazy load, we could save resources and give the guest better experiences when visiting our website.
+
+5. Mention at least 5 git commands and describe each function of them!
+Answer:
+a. git init: This command use to starts a new Git project.
+b. git add: This command adds new or changed files to the Git staging area.
+c. git commit: This command saves the changes that we made to the local repository.
+d. git push: This command sends our committed changes to the remote repository.
+e. git clone: This command copies a Git repository from a GitHub to our local machine so we could do the changes to the code.
